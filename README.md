@@ -25,10 +25,22 @@ I am a ML and AI enthusiast <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Kashyap-blue?style=flat&logo=Linkedin&logoColor=white)]([your-linkedin-url](https://www.linkedin.com/feed/))
 
 ---
+### Goals for 2023
+- [ ] Transformers
+- [ ] Continue working on Pytorch
+- [ ] Start leaning Tensorflow
+- [x] Work on a project with LSTM
+- [ ] Win a medal on a Kaggle competition
+- [x] Replicate a paper
+- [ ] Learn Ruby  
+
+---
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" title="Pytorch"  alt="Pytorch" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" title="SciKitLearn"  alt="SciKitLearn" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg" title="Anaconda"  alt="Anaconda" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode"  alt="VSCode" width="40" height="40"/>
