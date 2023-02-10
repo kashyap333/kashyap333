@@ -47,6 +47,3 @@ I am a ML and AI enthusiast <img src="https://media.giphy.com/media/WUlplcMpOCEm
 </div>
 
 ---
-
-### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kashyap333&theme=dark)](https://git.io/streak-stats)
