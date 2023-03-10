@@ -32,8 +32,7 @@ I am a ML and AI enthusiast <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - [ ] Start leaning Tensorflow
 - [x] Work on a project with LSTM
 - [ ] Win a medal on a Kaggle competition
-- [x] Replicate a paper
-- [ ] Learn Ruby  
+- [x] Replicate a paper 
 
 ---
 
