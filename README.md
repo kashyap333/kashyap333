@@ -26,12 +26,11 @@ I am a ML and AI enthusiast <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ---
 ### Goals for 2023
-- [ ] Transformers
+- [x] Transformers
 - [x] AutoEncoders
 - [ ] Continue working on Pytorch
 - [ ] Start leaning Tensorflow
 - [x] Work on a project with LSTM
-- [ ] Win a medal on a Kaggle competition
 - [x] Replicate a paper 
 
 ---
